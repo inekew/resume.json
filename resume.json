@@ -1,0 +1,597 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ineke (Roelfien) Weijer",
+    "label": "Secretaresse",
+    "image": "",
+    "email": "ineke.weijer@gmail.com",
+    "phone": "+316-41861808",
+    "summary": "Ik heb een passie voor het organiseren van events/conferenties/workshops, liefst zo efficient mogelijk, maar altijd met aandacht en respect voor de deelnemers/lezinggevers/docenten en betrokken collega's, ondersteunende diensten en leveranciers. Het liefst werk ik in een omgeving waar mensen opgaan in hun werk en ik de organiserende zorgen uit handen kan nemen",
+    "location": {
+      "city": "Diemen",
+      "countryCode": "NL",
+      "region": "Noord-Holland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ineke (Roelfien) Weijer",
+        "url": "https://www.linkedin.com/in/ineke-roelfien-weijer-6b446412/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Universiteit van Amsterdam-Van 't Hoff Instituut for Molecular Sciences-Holland Research School of Molecular Sciences",
+      "website": "https://hims.uva.nl/",
+      "website": "https://www.hrsmc.nl/",
+      "highlights": [
+        "Organiseren van conferenties, cursussen voor promovendi (Phd), wsrkshops, Symposia, administratie en bestellen,kantoorbenodigdheden, boeken zalen,overzetten website naar universitaire websysteem, maken en bijhouden van mailings/lijsten, opmaken jaarverslagen, opstellen nieuwsbrieven en al het bijbehordende drukwerk voorbereiden/ontwerpen, organiseren (bestuurs)vergaderingen, notuleren, boeken hotels voor (internationale) deelnemers/gasten, regeling catering/diners voor speciale gelegenheden/cursussen/vergaderingen, opzetten on-line meetings etc."],
+      "position": "Secretary",
+      "location": "Noord Holland",
+      "startDate": "2007-01-01",
+      "endDate": "-"
+    },
+
+      {
+        "company": "Universiteit van Amsterdam-Co van Ledden Hulsebosch Center - Amsterdam Center for Forensic Science and Medicine",
+        "website": "https://www.clhc.nl/",
+      
+      "highlights": ["Web-editor and organsatie Annual Symposium, (boeken zalen, registraties deelnemers/catering/posterborden/ontvangst gasten"],
+      "position": "webmaster/secretaresse",
+      "location": "Amsterdam",
+      "startDate": "2016-09-01",
+      "endDate": "-"
+    },
+    {
+      "company": "Universiteit van Amsterdam-Nederlands Instituut voor Onderzoek in de Katalyse",
+      "location": "Amsterdam, NL",
+      "description": "secretaresse",
+      "position": "Various",
+      "website": "http://niok.nl/",
+      "highlights":[],
+      "summary": "Web-editor and organsatie Jaarlijkse Katalyse Winterschool (CAIA), boeken hotel, zalen, registraties deelnemers/catering/posterborden/ontvangst gasten, certificering, organisatie (landelijk) tentamen, hospiteren"
+        },
+
+    {
+          "name": "Altra jeugdzorg en onderwijs",
+          "position": "Functional Database Manager",
+          "startDate": "2006-12-31",
+          "endDate": "2007-12-31",
+          "highlights": [],
+          "summary": "Organize courses, maintain manuals, test new version of client registration software, check integrity of input, analyse input, deliver annual statistics",
+          "url": "https://www.linkedin.com/company/altra-jeugdzorg-en-onderwijs/"
+        },
+        {
+          "name": "AthenA",
+          "position": "Volunteer of the Year",
+          "startDate": "2006-12-31",
+          "endDate": "2007-12-31",
+          "highlights": [],
+          "summary": "Organize all Referees for youth games of field-hockey club AthenA",
+          "url": ""
+        },
+        {
+          "name": "Cisco",
+          "position": "PA Director Tax EMEA",
+          "startDate": "2005-12-31",
+          "endDate": "2006-12-31",
+          "highlights": [],
+          "summary": "Set up meetings, organize workshops, help out with some tax-compliance registration, all secretarial duties",
+          "url": "https://www.linkedin.com/company/cisco/"
+        },
+        {
+          "name": "Centrum voor Wiskunde en Informatica",
+          "position": "Functional Database Manager/Communications Computer Systems Group",
+          "startDate": "2002-12-31",
+          "endDate": "2003-12-31",
+          "highlights": [],
+          "summary": "Linking Pin between users and systems group, help set up new website, set up materials database",
+          "url": "https://www.linkedin.com/company/centrum-wiskunde-en-informatica/"
+        },
+        {
+          "name": "University of Amsterdam",
+          "position": "Management Assistant CENDEF Project",
+          "startDate": "2000-12-31",
+          "endDate": "2002-12-31",
+          "highlights": [],
+          "summary": "Set up CENDEF website and database, annual report, scientific reports, organize meetings, symposia etc.",
+          "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+        },
+        {
+          "name": "UvA-Faculty of Mathematics, Phyiscs, Informatics",
+          "position": "Management Assistant/Secretary to Director of Education",
+          "startDate": "1995-12-31",
+          "endDate": "1998-12-31",
+          "highlights": [],
+          "summary": "Conversion of locally kept Student results to University Database, Statistics for Education-costs model",
+          "url": ""
+        },
+        {
+          "name": "WZI",
+          "position": "Management Assistant/Secretary to the Dean",
+          "startDate": "1990-12-31",
+          "endDate": "1995-12-31",
+          "highlights": [],
+          "summary": "PA to Dean, organize conferences, setup and manage administrative database Experimentele Fysica groep",
+          "url": ""
+        },
+        {
+          "name": "Boston University",
+          "position": "Management Assistant Physics Department",
+          "startDate": "1988-12-31",
+          "endDate": "1990-12-31",
+          "highlights": [],
+          "summary": "Run Physics Calender, (Boston Area), TexPert,\nhelp work on SSC proposal, work on annual reports, organize meetings etc.",
+          "url": "https://www.linkedin.com/school/boston-university/"
+        },
+        {
+          "name": "Nikhef-K",
+          "position": "Secretary",
+          "startDate": "1986-12-31",
+          "endDate": "1988-12-31",
+          "highlights": [],
+          "summary": "Secretary at electron scattering group/organize meetings/conferences/travel/hosting of guests etc.",
+          "url": ""
+        }
+      ],
+      "volunteer": [
+        {
+          "organization": "HC Atthena",
+          "position": "Coordinator Referees and Referee",
+          "startDate": "2008-09-30",
+          "endDate": "",
+          "summary": "and Refereeing long after",
+          "highlights": [],
+          "url": ""
+        }
+      ],
+      "education": [
+        {
+          "institution": "Lorentz Lyceum",
+          "area": "Wiskunde , Biologie, Scheikunde, Natuurkunde, Engels, Nederlands, Frans,",
+          "studyType": "VWO-B",
+          "startDate": "1972-12-31",
+          "endDate": "1978-12-31",
+          "score": "",
+          "courses": []
+        },
+        {
+          "institution": "",
+          "area": "Psychology",
+          "studyType": "Bachelor's degree (BSc.)",
+          "startDate": "2004-12-31",
+          "endDate": "2007-12-31",
+          "score": "",
+          "courses": [
+            "null - Emotions",
+            "null - Memory",
+            "null - Neuropsychology",
+            "null - Cognitive Psychology"
+          ]
+        },
+        {
+          "institution": "Amsterdam University of Applied Sciences",
+          "area": "Media, Informatie en Communicatie",
+          "studyType": "Bachelor of Applied Science (BSc.)",
+          "startDate": "2011-12-31",
+          "endDate": "2014-12-31",
+          "score": "",
+          "courses": [
+            "1&2 - Content Management 1&2",
+            "null - Ondernemen in de informatiesector",
+            "null - Datavisualisatie",
+            "null - Beroepsethiek en Informatie",
+            "2 - Marketing",
+            "null - Project Management",
+            "null - Minor E-Discovery",
+            "null - IP E-discovery",
+            "null - Informatie auditering",
+            "null - Financieel Management",
+            "null - Mediawijsheid",
+            "null - Informatie structurering",
+            "null - Kennismanagement"
+          ]
+        },
+        {
+          "institution": "Vrije Universiteit Amsterdam",
+          "area": "Psychology",
+          "studyType": "Propedeuse",
+          "startDate": "1979-12-31",
+          "endDate": "1982-12-31",
+          "score": "",
+          "courses": []
+        }
+      ],
+      "awards": [
+        {
+          "title": "Member and spokesperson for winning team IP E-discovery",
+          "date": "2013-02-28",
+          "awarder": "Hogeschool van Amsterdam",
+          "summary": "With my team we won the competition during this 2 week Intensive Programme in Laval, France.\nOur project led to an abstract/poster presentation at \nand can be found here:\nISBN: 978-1-909507-34-0 ISSN: 2048-8602\nSee for an impression of IP Laval 2013 \nhttps://www.youtube.com/watch?v=pX7sBZEN7qo\n\nA total number of 60 Computer Science, Information Management and Law students + a number of lecturers will go Laval in France  from 25 February – 8 march 2013. They will be put in mixed nationality teams  with Dutch Computer Science and Law students. Each participant is required to take part in a preparatory programme [...]\n\nA total number of 60 Computer Science, Information Management and Law students + a number of lecturers will go Laval in France  from 25 February – 8 march 2013. They will be put in mixed nationality teams  with Dutch Computer Science and Law students. Each participant is required to take part in a preparatory programme at home before the start of the IP. This programme consists of around 3 sessions and team work.\n\nParticipants:\n\nHogeschool van Amsterdam (Project Management)\nESIEA (France)\nUniversity of Salford (UK)\nHochschule Bonn-Rhein-Sieg (Germany)\nMid-Sweden University (Sweden)\n Universidad de Alcalá (Spain)\nUniversity of Zagreb (Croatia)\n"
+        },
+        {
+          "title": "Volunteer of the Year",
+          "date": "",
+          "awarder": "Hockeyclub Athena, Amsterdam",
+          "summary": ""
+        }
+      ],
+      "certificates": [
+        {
+          "name": "The Data Scientist’s Toolbox",
+          "issuer": "Coursera Course Certificates",
+          "startDate": "2016-04-30",
+          "url": "https://www.coursera.org/account/accomplishments/verify/D4CWUY8L6JCK"
+        },
+        {
+          "name": "The Data Scientist’s Toolbox",
+          "issuer": "Coursera Course Certificates",
+          "startDate": "2016-04-30",
+          "url": "https://www.coursera.org/account/accomplishments/verify/D4CWUY8L6JCK"
+        }
+      ],
+      "publications": [
+      {"name": "The Influence of Joining the European Union on Human Trafficking",
+          "Authors": "Ineke Weijer, Karin Ehnberg, Dijana Grd, Boris Kišić, Juan Muro Garrido-Lestache and Marc-Johan Tsalatsouzy",
+          "ISBN": "978-1-909507-34-0",
+           "ISSN": "2048-8602"
+          
+      }
+      ],
+      "skills": [
+        {
+          "name": "Research",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "English",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Statistics",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Coaching",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "University of Amsterdam",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "HTML5",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Infographics",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Administration",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Management",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Communication",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Outlook",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Higher Education",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Event Management",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Organization",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "MySQL",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Editing",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Customer Service",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Event Planning",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Organizational Effectiveness",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Nonprofits",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Microsoft Office",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Communicatie",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Contact met de gemeenschap",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Conference Organization",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Prezi",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Project Management",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Databases",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "SPSS",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Evenementenplanning",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Wordpress",
+          "level": "",
+          "keywords": []
+        },
+
+        {
+          "name": "Drupal",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "PowerPoint",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Microsoft Word",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Annual Reports",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Strategic Planning",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Microsoft Excel",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Evenementencoördinatie",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Photoshop",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Analysis",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Science",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Front Office",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Teamwork",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "InDesign",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Writing",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Social Media",
+          "level": "",
+          "keywords": []
+        },
+        {
+          "name": "Dreamweaver",
+          "level": "",
+          "keywords": []
+        }
+      ],
+      "languages": [
+        {
+          "fluency": "Full Professional",
+          "language": "English"
+        },
+        {
+          "fluency": "Limited Working",
+          "language": "French"
+        },
+        {
+          "fluency": "Limited Working",
+          "language": "German"
+        }
+      ],
+      "interests": [],
+      "references": [
+        {
+          "name": "Sandra Raven",
+          "reference": "Ik ken Ineke als een zeer gedreven studiegenoot met veel inzet en een groot sociaal hart. Ik heb meerdere opdrachten met haar uitgevoerd en ze heeft daarbij een constructieve inbreng en komt altijd haar afspraken na. Kortom: een prettig persoon om mee samen te werken."
+        },
+        {
+          "name": "Jo van den Brand",
+          "reference": "I have worked with Ineke in the group of professor Conrad de Vries. I got to know Ineke as a serious, intelligent and enthusiastic colleague. Ineke has good social skills and is a nice person to have in the group. I can recommend her without any reservations and hope that you will seriously consider her for the position at your institute. Feel free to approach me for any additional information. Sincerely, Jo van den Brand"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Website Holland Research School of Molecular Chemistry",
+          "startDate": "2010-09-30",
+          "summary": "The website is the window of my organisation to The World.",
+          "url": "http://www.hrsmc.nl"
+        },
+        {
+          "name": "Website Co van Ledden Hulsebosch Center",
+          "startDate": "2014-10-31",
+          "summary": "Update basics, adding more sections and information, e.g. research- and literature thesis opportunities at CLHC",
+          "url": "http://www.clhc.nl",
+          "endDate": "2014-10-31"
+        },
+        {
+          "name": "Website Co van Ledden Hulsebosch Center",
+          "startDate": "2014-10-31",
+          "summary": "The CLHC serves to bundle the forensic experience, knowledge and expertise of the University of Amsterdam's Faculty of Science, the Academic Medical Center (AMC-UvA) and the Netherlands Forensic Institute (NFI).",
+          "url": "http://www.clhc.nl",
+          "endDate": "2014-10-31"
+        },
+        {
+          "name": "Crowdsourcing",
+          "startDate": "2012-11-30",
+          "summary": "Korte presentatie over Crowd Sourcing naar aanleiding van het college Kennismanagement, samen met Sandra Raven",
+          "url": "http://prezi.com/gcptggn2sujg/crowdsourcing-kennismanagement/?kw=view-gcptggn2sujg&rc=ref-14007381",
+          "endDate": "2012-11-30"
+        }
+      ],
+	  "education": [
+    {
+      "location": "Eindhoven",
+      "studyType": "VWO-Atheneum B",
+      "area": "general",
+      "endDate": "1978-06-01",
+      "institution": "Lorenz Lyceum",
+      "startDate": "1972-09-01"
+    },
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "studyType": "P",
+      "area": "Psychologie",
+      "startDate": "1979-09-01",
+      "endDate": "1983-06-01",
+      "location": "Amsterdam"
+    },
+    {
+      "institution": "University of Amsterdam",
+      "startDate": "1994-09-01",
+      "endDate": "1983-06-01",
+      "area": "Psychonomie",
+      "studyType": "BS",
+      "location": "Amsterdam"
+      
+    },
+    {
+      "institution": "Amsterdam University of Applied Sciences ",
+      "location": "Amsterdam",
+      "studyType": "BS",
+      "area": "Media en Communicatie",
+      "startDate": "2019-09-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "HTML/CSS",
+        "SQL",
+        "unix",
+         "TeX"]
+         },
+      
+    {
+      "name": "Software",
+      "keywords": [
+        "Microsoft Office 365",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Zie mijn LinkedIn Profiel"
+      ]}
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "language": "French",
+      "fluency" : "Day-today speach, reading"
+    
+    }],
+      "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+      }
+    }
+
+  
+  
